@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.16.2.15:8082/IOS/EPGateway.ipa</string>
+					<string>http://172.16.2.13:80/cgi/bp/filemgt/special/download?fileId=70afa8f6bd524480aad0dd23dac0f873</string>
 				</dict>
 				<dict>
 					<key>kind</key>
